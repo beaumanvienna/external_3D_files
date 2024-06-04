@@ -1,6 +1,6 @@
 {
 	"asset":{
-		"generator":"Khronos glTF Blender I/O v4.0.44",
+		"generator":"Khronos glTF Blender I/O v4.1.62",
 		"version":"2.0"
 	},
 	"extensionsUsed":[
@@ -291,20 +291,20 @@
 		{
 			"doubleSided":true,
 			"emissiveFactor":[
-				0.36000001430511475,
-				0.26964095948699907,
-				0.002976081675830744
+				0.3499999940395355,
+				0.3345910551787945,
+				0.09467434274853392
 			],
 			"name":"Emissive",
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
 					1,
-					0.9545900225639343,
-					0.2697720229625702,
+					0.9559744596481323,
+					0.270498126745224,
 					1
 				],
-				"metallicFactor":0.9727272987365723,
-				"roughnessFactor":0.9727272987365723
+				"metallicFactor":0.9727270007133484,
+				"roughnessFactor":0.9727270007133484
 			}
 		},
 		{
@@ -336,8 +336,8 @@
 				"baseColorTexture":{
 					"index":7
 				},
-				"metallicFactor":0.954954981803894,
-				"roughnessFactor":0.9594594836235046
+				"metallicFactor":0.9727270007133484,
+				"roughnessFactor":0.9727270007133484
 			}
 		},
 		{
